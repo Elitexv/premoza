@@ -1,5 +1,5 @@
 # premoza
-🚧 under development, contributions are welcome
+An innovative real estate e commerce platform powered by Solana and Starknet, enabling users to,buy, rent or sell properties and book hotels from anywhere in the world with just one click.
 
 <img src="demo.png">
 <img src="demo1.png">
